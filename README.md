@@ -3,22 +3,22 @@ This repository contains a collection of Python programs demonstrating various n
 
 ## Projects Included
 
-1. **Data Interpolation Analysis Tool** (`num1.py`)
+1. **Data Interpolation Analysis Tool** (`Data-Interpolation-Analysis-Tool.py`)
    - Interpolation methods for population and economic data
    - Multiple interpolation techniques
    - Error analysis and visualization
 
-2. **Simple Linear Regression Analysis** (`num2.py`)
+2. **Simple Linear Regression Analysis** (`Simple-Linear-Regression-Analysis.py`)
    - Basic linear regression implementation
    - Economic data analysis
    - Visualization and R-squared calculations
 
-3. **Advanced Polynomial Regression Analysis** (`num2_1.py`)
+3. **Advanced Polynomial Regression Analysis** (`Advanced-Polynomial-Regression-Analysis.py`)
    - Enhanced regression analysis
    - Polynomial regression capabilities
    - Future predictions and error analysis
 
-4. **Numerical Integration Methods Comparison** (`num3.py`)
+4. **Numerical Integration Methods Comparison** (`Integration-Methods-Comparison.py`)
    - Comparison of integration methods
    - Multiple mathematical functions
    - Error convergence analysis
