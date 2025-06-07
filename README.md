@@ -32,3 +32,11 @@ This repository contains a collection of Python programs demonstrating various n
 
 ## Usage
 Each program can be run independently.
+
+dependencies:
+- pip install numpy
+- pip install scipy
+- pip install matplotlib
+- pip install scikit-learn
+
+python <name of the python file>.py
